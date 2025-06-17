@@ -26,7 +26,7 @@ This project demonstrates how to deploy a secure, highly available, and scalable
   yum install -y nginx
   systemctl start nginx
   systemctl enable nginx
-  echo "<h1>Welcome to Salma's Scalable Web App</h1>" > /usr/share/nginx/html/index.html
+  echo " Welcome to Salma's Scalable WebApp " >/usr/share/nginx/html/index.html
   ```
 
 ---
