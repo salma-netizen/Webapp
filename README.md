@@ -19,7 +19,7 @@ This project demonstrates how to deploy a secure, highly available, and scalable
 
 **Default Architecture**
 
-![project structure](/project structure.png)
+![project structure](/project%20structure.png)
 
 ### ✅ 2. **EC2 Instances**
 - Launched two EC2 instances (Amazon Linux 2)
