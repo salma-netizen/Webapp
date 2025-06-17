@@ -26,7 +26,7 @@ This project demonstrates how to deploy a secure, highly available, and scalable
   yum install -y nginx
   systemctl start nginx
   systemctl enable nginx
-  echo "<h1>Welcome to Yahya's Scalable Web App</h1>" > /usr/share/nginx/html/index.html
+  echo "<h1>Welcome to Salma's Scalable Web App</h1>" > /usr/share/nginx/html/index.html
   ```
 
 ---
@@ -114,9 +114,10 @@ This project demonstrates how to deploy a secure, highly available, and scalable
 
 ## 👨‍💻 Author
 
-**Yahya Fayad**  
-[GitHub](https://github.com/yahyafayad) | [LinkedIn](https://linkedin.com/in/yahyafayad)  
-Email: yahyaifayad@gmail.com
+**Salma Elsayed **
+[LinkedIn]
+https://www.linkedin.com/in/salma-elsayed-721993bd?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Email: engsalmaelsayed7@gmail.com 
 
 ---
 
