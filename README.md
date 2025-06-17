@@ -19,7 +19,7 @@ This project demonstrates how to deploy a secure, highly available, and scalable
 
 **Default Architecture**
 
-![Alt text]("C:\Users\ahmed alnomrsy\Pictures\Screenshots\launch template.png")
+![Launch Template](assets/launch-template.png)
 
 ### ✅ 2. **EC2 Instances**
 - Launched two EC2 instances (Amazon Linux 2)
