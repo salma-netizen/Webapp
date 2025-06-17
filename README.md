@@ -121,7 +121,8 @@ This project demonstrates how to deploy a secure, highly available, and scalable
 ** Salma Elsayed ** 
 
 LinkedIn
-https://www.linkedin.com/in/salma-elsayed-721993bd?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+https://www.linkedin.com/in/salma-elsayed-721993bd?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEfbHWe6bTPiTbUZHFsvKAw%3D%3D
 
 Email: engsalmaelsayed7@gmail.com 
 
