@@ -37,7 +37,7 @@ This project demonstrates how to deploy a secure, highly available, and scalable
   - Restricted access using specific IP ranges
 - Assigned appropriate security groups to EC2 and ALB
 
----
+--
 
 ### ✅ 4. **Application Load Balancer (ALB)**
 - Deployed an ALB in public subnets
